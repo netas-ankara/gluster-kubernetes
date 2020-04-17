@@ -6,3 +6,9 @@ topology.json
 heketi-storage.json
 ssh-config
 heketi.json
+
+# Intellij
+**/.idea/
+.idea/
+*.iml
+*.iws
