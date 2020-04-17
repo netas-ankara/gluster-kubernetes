@@ -25,8 +25,7 @@ requirements:
   * 24008 - GlusterFS Management
 
   * 49152 to 49251 - Each brick for every volume on the host requires its own
-  port. For every new brick, one new port will be used starting at 49152. We
-  recommend a default range of 49152-49251 on each host, though you can
+  port. For every new brick, one new port will be used starting at 49152. We recommend a default range of 49152-49251 on each host, though you can
   adjust this to fit your needs.
 
   * The following kernel modules must be loaded:
